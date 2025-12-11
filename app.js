@@ -1,6 +1,6 @@
 // app.js
-import { add, subtract } from './mathModule.js';
-import { toUpperCase, toLowerCase } from './stringModule.js';
+import { add, subtract } from './mathmodule.js';
+import { toUpperCase, toLowerCase } from './stringmodule.js';
  
 // Call the functions and log results (your choice of arguments)
 console.log('Add: ', add(5, 3));  
@@ -21,3 +21,4 @@ console.log(toUpperCase('JavaScript Modules'));  // Extra string test
 console.log(toLowerCase('MODULE SYSTEM'));  // Extra string test
 console.log(toUpperCase('path example'));  // Extra string test
 console.log(toLowerCase('EXAMPLE PATH'));  // Extra string test
+
